@@ -9,5 +9,5 @@ I like to build distributed systems with TypeScript, Python, Docker, SQL and NoS
 I'm currently dedicating a high percentage of my time to a limited number of organizations as an external consultant. If you would like to have my help with your team and product, feel free to contact me. 🤓
 
 📫 How to reach me
-- Github @jasonatallah
-- LinkedIn @jasonatallah
+- [GitHub](https://github.com/JasonAtallah)
+- [LinkedIn](https://www.linkedin.com/in/jasonatallah/)
