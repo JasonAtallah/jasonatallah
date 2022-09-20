@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Jason Atallah 👋
 
-<!--
-**JasonAtallah/jasonatallah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I currently live in Northern California. 🇺🇸
 
-Here are some ideas to get you started:
+I have been building APIs, web apps, automations and libraries with different teams and organizations in Silicon Valley and Arizona. 🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like to build distributed systems with TypeScript, Python, Docker, SQL and NoSQL databases, modern backend APIs (GraphQL, TRPC), and modern frontend frameworks (Next.js, React, Vue, Nuxt, Angular). 🤖
+
+I'm currently dedicating a high percentage of my time to a limited number of organizations as an external consultant. If you would like to have my help with your team and product, feel free to contact me. 🤓
+
+📫 How to reach me
+- Github @jasonatallah
+- LinkedIn @jasonatallah
