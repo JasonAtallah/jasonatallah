@@ -5,3 +5,4 @@ I like building APIs, web apps, automations and libraries with TypeScript, Pytho
 📫 How to reach me
 - [GitHub](https://github.com/JasonAtallah)
 - [LinkedIn](https://www.linkedin.com/in/jasonatallah/)
+- [DevCover] (https://dev-cover-n4lhy975t-jasonatallah.vercel.app)
